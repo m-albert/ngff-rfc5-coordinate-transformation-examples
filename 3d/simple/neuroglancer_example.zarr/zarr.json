@@ -24,7 +24,7 @@
             "input": "array",
             "output": "physical",
             "transformations": [
-              {"type": "scale", "scale": [2.0, 0.7311, 0.7311]},
+              {"type": "scale", "scale": [2.0, 0.5, 0.5]},
               {"type": "translation", "translation": [0, 0, 0]}
             ]
           }]
